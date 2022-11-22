@@ -5,8 +5,6 @@
 
 - 👯 I’m looking to collaborate **on Java projects**
 
-- 👨‍💻 All of my projects are available at [https://delyc-my-portfolio.herokuapp.com/](https://delyc-my-portfolio.herokuapp.com/)
-
 - 💬 Ask me about **PERN, MERN and Graphql**
 
 - 📫 How to reach me **delyce35@gmail.com** 
