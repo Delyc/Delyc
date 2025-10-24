@@ -1,4 +1,4 @@
-## 👋 Hi, I’m Delyc  
+## 👋 Hi, I’m Delyce  
 **MSCS Student at Brown University**  
 Passionate about **Artificial Intelligence** and **Computer Graphics**  
 
