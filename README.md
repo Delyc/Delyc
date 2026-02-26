@@ -20,5 +20,4 @@ Differentiable Rendering · Visual AI · Generative Graphics
 
 ### 🌐 Profiles  
 - [LinkedIn](https://www.linkedin.com/in/delyce-t-475977217/)  
-- [LeetCode](https://leetcode.com/u/Gy9htc4RHS/)  
-- [Website](https://delce.netlify.app/)
+
