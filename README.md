@@ -1,23 +1,25 @@
-## 👋 Hi, I’m Delyce  
-**MSCS Student at Brown University**  
-Passionate about **Artificial Intelligence** and **Computer Graphics**  
+# Hi, I'm Delyce 👋
+**MSCS Student at Brown University**
 
-I build systems that connect **AI and Visual Computing** — from intelligent rendering pipelines to deep learning models that understand and generate visual content.
+Passionate about Fairness in AI and the intersection of deep learning and robotics. I build systems that range from equitable medical AI to diffusion policy models that help robots generalize to unseen environments.
 
-###  Skills  
+---
 
-**Programming Languages:**  
-C++ · Python · JavaScript · TypeScript  
+### 🛠️ Skills
 
-**Cloud & DevOps:**  
-AWS (EC2, ECR, EKS) · Docker · Kubernetes  
+**Programming Languages:**
+C++ · Python · JavaScript · TypeScript
 
-**Frameworks & Tools:**  
-TensorFlow · OpenGL · React.js · Node.js  
+**Cloud & DevOps:**
+AWS (EC2, ECR, EKS) · Docker · Kubernetes
 
-**Research Interests:**  
-Differentiable Rendering · Visual AI · Generative Graphics  
+**Frameworks & Tools:**
+PyTorch · LibTorch · React.js · Node.js
 
-### 🌐 Profiles  
-- [LinkedIn](https://www.linkedin.com/in/delyce-t-475977217/)  
+**Research Interests:**
+Diffusion Policy · Imitation Learning · Robotics Generalization · AI Fairness in Healthcare · Generative Models
 
+---
+
+### 🌐 Profiles
+- [LinkedIn](https://www.linkedin.com/in/delyce-t-475977217/)
